@@ -7,7 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `git clone https://github.com/eduardodarocha/Sistema_De_Autenticacao_React.git`
 
 ## Install Dependencies
+
+Go to the project directory
+
 ### `cd Sistema_De_Autenticacao_React`
+
+In the project directory, you must install the dependencies:
+
 ### `npm install`
 
 ## Available Scripts 
